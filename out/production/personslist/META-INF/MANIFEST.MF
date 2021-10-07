@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: otr.test.and.Main
+
